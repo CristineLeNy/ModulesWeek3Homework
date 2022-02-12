@@ -1,4 +1,7 @@
 # ModulesWeek3Homework
+*Click RAW to see proper format*
+
+
 Voltage Regulators (Line and Adjustable)
 
 Line Voltage Regulator:
