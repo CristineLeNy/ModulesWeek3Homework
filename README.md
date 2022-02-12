@@ -2,7 +2,7 @@
 Voltage Regulators (Line and Adjustable)
 
 Line Voltage Regulator:
-datasheet for regulator: 
+datasheet for Regulator: 
   https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3940
 purpose: 
   This allows you to get an array of common voltages that you need to power your microprocessor and components without having to adjust the voltage regulator. 
